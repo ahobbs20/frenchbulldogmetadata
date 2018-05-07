@@ -1,0 +1,41 @@
+/*
+* Programmer Name: Gina Hobbs
+* Date: 5/7
+* Description of Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body {
+	background-color: #D0EBE4;
+	font-family: helvetica;
+ 	font-size: 12pt;
+ 	color: #0C115A;
+ 	
+}
+.right{
+	float: right;
+	height:100px
+	width: 150px
+
+}
+header {
+	font-size: 25pt;
+	background-color: #AEAFAF;
+
+}
+
+h1 {
+	font-size: 20pt;
+	text-decoration: underline;
+	text-align: center;
+	background-color: #FFFFFF;
+
+}
